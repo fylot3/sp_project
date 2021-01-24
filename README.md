@@ -26,5 +26,5 @@ Three handshake attack PoC
     - With the carefully chosen public key on Curve25519 (authenticated with the cracked RSA private key), I authenticated to the client and server.
     
 # Run
-    ./script.py
+    ./exploit.py
 
