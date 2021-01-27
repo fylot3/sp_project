@@ -1,5 +1,5 @@
 # sp_project
-Three handshake attack PoC
+MitM attack on Curve25519 DH
 
 # Description
     - Context:
